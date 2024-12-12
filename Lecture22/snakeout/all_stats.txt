@@ -1,0 +1,7 @@
+snakeout/6991_paired_k19_contigs_stats.txt:Main genome contig N/L50:           	2092/797
+snakeout/6991_paired_k21_contigs_stats.txt:Main genome contig N/L50:           	1126/1.447 KB
+snakeout/6991_paired_k23_contigs_stats.txt:Main genome contig N/L50:           	809/1.931 KB
+snakeout/6991_paired_k25_contigs_stats.txt:Main genome contig N/L50:           	646/2.386 KB
+snakeout/6991_paired_k27_contigs_stats.txt:Main genome contig N/L50:           	695/2.14 KB
+snakeout/6991_paired_k29_contigs_stats.txt:Main genome contig N/L50:           	825/1.804 KB
+snakeout/6991_paired_k31_contigs_stats.txt:Main genome contig N/L50:           	1075/1.397 KB

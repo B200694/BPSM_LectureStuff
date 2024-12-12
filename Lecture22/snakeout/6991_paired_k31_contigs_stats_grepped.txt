@@ -1,0 +1,5 @@
+Main genome contig total:           	10079
+Main genome contig sequence total:  	5.555 MB  	0.000% gap
+Main genome contig N/L50:           	1075/1.397 KB
+Main genome contig N/L90:           	4840/201
+Max contig length:                  	12.918 KB
